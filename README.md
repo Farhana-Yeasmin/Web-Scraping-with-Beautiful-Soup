@@ -15,7 +15,8 @@ The requests_html library allows me to render the JavaScript on a web page befor
 
 
 <strong>Screenshot:</strong>
-![img.png](img.png)
+![img](https://github.com/Farhana-Yeasmin/Web-Scraping-with-Beautiful-Soup/assets/32108194/68457847-b47e-424e-b05c-7e5f3bd6564c)
+
 
 
 
